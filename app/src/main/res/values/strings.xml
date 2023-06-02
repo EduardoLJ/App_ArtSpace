@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">App_ArtSpace</string>
+
+    <!--Angie Wright-->
+    <string name="wright_pip">Pretty in Pink #1</string>
+    <string name="wright_pip_date">Angie Wright, 2022</string>
+    <string name="wright_sg">Sun Gazer - Large Diptych</string>
+    <string name="wright_sg_date">Angie Wright, 2023</string>
+
+    <!--Ekatherina Ermilkina-->
+    <string name="ermilkina_rs">Rainfall Symphony</string>
+    <string name="ermilkina_rs_date">Ekatherina Ermilkina, 2023</string>
+    <string name="ermilkina_css">City Street Scene</string>
+    <string name="ermilkina_css_date">Ekatherina Ermilkina, 2022</string>
+
+    <!---Maria Moretti-->
+    <string name="moretti_c">Cayene</string>
+    <string name="moretti_c_date">Maria Moretti, 2023</string>
+    <string name="moretti_gi">Geometric Impresion</string>
+    <string name="moretti_gi_date">Maria Moretti, 2022</string>
+
+    <!--Peter Nottrott-->
+    <string name="nottrott_sr">Summer Rhapsody XL 1</string>
+    <string name="nottrott_sr_date">Peter Nottrott, 2023</string>
+    <string name="nottrott_gd">Glory Day</string>
+    <string name="nottrott_gd_date">Peter Nottrott, 2023</string>
+
+    <!--Vincent Bardou-->
+    <string name="bardou_mp">Magic Phanter</string>
+    <string name="bardou_mp_date">Vincent Bardou, 2022</string>
+    <string name="bardou_m">Medusa</string>
+    <string name="bardou_m_date">Vincent Bardou, 2022</string>
+</resources>
